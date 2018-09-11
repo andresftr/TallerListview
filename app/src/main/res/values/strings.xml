@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TallerListview</string>
+    <string name="opciones">OPCIONES</string>
+    <string name="areas">ÁREAS</string>
+    <string name="volumenes">VOLÚMENES</string>
+    <string name="operaciones">OPERACIONES REALIZADAS</string>
+    <string name="realizadas">REALIZADAS</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string-array name="opciones">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones</item>
+    </string-array>
+</resources>
