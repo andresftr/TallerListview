@@ -30,7 +30,20 @@ public class Area extends Activity {
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-
+                switch (i){
+                    case 0:
+                        in = new Intent(Area.this,AreaCuadrado.class);
+                        startActivity(in);
+                        break;
+                    case 1:
+                        in = new Intent(Area.this,AreaRectangulo.class);
+                        startActivity(in);
+                        break;
+                    case 2:
+                        in = new Intent(Area.this,AreaCirculo.class);
+                        startActivity(in);
+                        break;
+                }
             }
         });
     }
