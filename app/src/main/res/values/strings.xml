@@ -2,7 +2,9 @@
     <string name="app_name">TallerListview</string>
     <string name="opciones">OPCIONES</string>
     <string name="areas">ÁREAS</string>
+    <string name="area">Área: </string>
     <string name="volumenes">VOLÚMENES</string>
+    <string name="volumen">Volumen: </string>
     <string name="operaciones">OPERACIONES REALIZADAS</string>
     <string name="realizadas">REALIZADAS</string>
     <string name="operacion">Operación</string>
@@ -16,12 +18,12 @@
     <string name="cuadrado">Cuadrado</string>
     <string name="rectangulo">Rectángulo</string>
     <string name="circulo">Círculo</string>
-    <string name="valorLado">Valor del Lado</string>
+    <string name="valorLado">Valor del Lado: </string>
     <string name="calcular">Calcular</string>
     <string name="borrar">Borrar</string>
-    <string name="valorBase">Valor de la Base</string>
-    <string name="valorAltura">Valor de la Altura</string>
-    <string name="valorRadio">Valor del Radio</string>
+    <string name="valorBase">Valor de la Base: </string>
+    <string name="valorAltura">Valor de la Altura: </string>
+    <string name="valorRadio">Valor del Radio: </string>
     <string-array name="opcAreas">
         <item>@string/cuadrado</item>
         <item>@string/rectangulo</item>

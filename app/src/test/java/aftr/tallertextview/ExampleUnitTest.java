@@ -11,7 +11,9 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
     @Test
-    public void addition_isCorrect() {
-        assertEquals(4, 2 + 2);
+    public void areaCuadrado(){
+        double a=5, b;
+        b=25;
+        assertEquals(b,Metodos.areaCuadrado(a),0);
     }
 }
