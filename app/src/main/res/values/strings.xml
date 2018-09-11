@@ -13,4 +13,26 @@
         <item>@string/volumenes</item>
         <item>@string/operaciones</item>
     </string-array>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="valorLado">Valor del Lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="valorBase">Valor de la Base</string>
+    <string name="valorAltura">Valor de la Altura</string>
+    <string name="valorRadio">Valor del Radio</string>
+    <string-array name="opcAreas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string-array name="opcVolumenes">
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
 </resources>
