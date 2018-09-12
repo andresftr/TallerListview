@@ -32,12 +32,12 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editText5"
+            android:id="@+id/txtRadio"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="number|numberDecimal" />
     </LinearLayout>
 
     <LinearLayout
@@ -55,12 +55,12 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editText6"
+            android:id="@+id/txtAltura"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="number|numberDecimal" />
     </LinearLayout>
 
     <LinearLayout
@@ -73,6 +73,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="resultado"
             android:text="@string/calcular" />
 
         <Button
@@ -80,6 +81,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="borrar"
             android:text="@string/borrar" />
     </LinearLayout>
 </LinearLayout>

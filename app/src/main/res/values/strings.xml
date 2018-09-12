@@ -37,4 +37,14 @@
         <item>@string/cono</item>
         <item>@string/cubo</item>
     </string-array>
+    <string name="areaCirculo">Área del Circulo</string>
+    <string name="areaCuadrado">Área del Cuadrado</string>
+    <string name="areaRectangulo">Área del Rectangulo</string>
+    <string name="lado">Lado: </string>
+    <string name="radio">Radio: </string>
+    <string name="altura">Altura: </string>
+    <string name="base">Base: </string>
+    <string name="volumenCilindro">Volumen del Cilindro</string>
+    <string name="volumenCono">Volumen del Cono</string>
+    <string name="volumenCubo">Volumen del Cubo</string>
 </resources>

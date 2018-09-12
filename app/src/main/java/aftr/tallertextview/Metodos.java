@@ -12,15 +12,15 @@ public class Metodos {
     }
 
     public static double areaCirculo(double rad){
-        return PI*Math.pow(rad,2);
+        return PI*(Math.pow(rad,2));
     }
     
     public static double volumenCilindro(double rad, double alt){
-        return PI*Math.pow(rad,2)*alt;
+        return PI*(Math.pow(rad,2))*alt;
     }
 
     public static double volumenCono(double rad, double alt){
-        return (PI*Math.pow(rad,2)*alt)/3;
+        return (PI*(Math.pow(rad,2))*alt)/3;
     }
 
     public static double volumenCubo(double lad){
