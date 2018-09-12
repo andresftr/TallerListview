@@ -47,4 +47,6 @@
     <string name="volumenCilindro">Volumen del Cilindro</string>
     <string name="volumenCono">Volumen del Cono</string>
     <string name="volumenCubo">Volumen del Cubo</string>
+    <string name="error_1">Ingresa un valor</string>
+    <string name="error_2">Entrada invalida</string>
 </resources>
