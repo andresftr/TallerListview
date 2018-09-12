@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerListview</string>
+    <string name="opciones">OPTIONS</string>
+    <string name="areas">AREAS</string>
+    <string name="area">Area:</string>
+    <string name="volumenes">VOLUMES</string>
+    <string name="volumen">"Volumen: "</string>
+    <string name="operaciones">OPERATIONS PERFORMED</string>
+    <string name="realizadas">REALIZED</string>
+    <string name="operacion">Operation</string>
+    <string name="datos">Data</string>
+    <string name="resultado">Result</string>
+    <string name="cuadrado">Square</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="circulo">Circle</string>
+    <string name="valorLado">"Side Value: "</string>
+    <string name="calcular">Calculate</string>
+    <string name="borrar">Delete</string>
+    <string name="valorBase">"Base Value: "</string>
+    <string name="valorAltura">Height Value:</string>
+    <string name="valorRadio">Radio Value:</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="areaCirculo">Circle Area</string>
+    <string name="areaCuadrado">Square Area</string>
+    <string name="areaRectangulo">Rectangle Area</string>
+    <string name="lado">Side:</string>
+    <string name="radio">Radio:</string>
+    <string name="altura">Height:</string>
+    <string name="base">Base:</string>
+    <string name="volumenCilindro">Cylinder Volume</string>
+    <string name="volumenCono">Cone Volume</string>
+    <string name="volumenCubo">Cube Volume</string>
+    <string name="error_1">Enter a Value</string>
+    <string name="error_2">Invalid Entry</string>
+</resources>

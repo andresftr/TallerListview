@@ -36,9 +36,10 @@ public class AreaRectangulo extends Activity {
             o.guardar();
 
             //Mostrar resultado en dialogo
+            String mensaje = getResources().getString(R.string.area) + " " + dec;
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle(R.string.resultado);
-            builder.setMessage(dec);
+            builder.setMessage(mensaje);
             builder.setNeutralButton("Ok", null);
             Dialog dialog = builder.create();
             dialog.show();
